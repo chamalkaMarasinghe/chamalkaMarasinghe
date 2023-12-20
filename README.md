@@ -6,7 +6,7 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 [Linkedin: Chamalka Marasinghe](http://www.linkedin.com/in/chamalka-marasinghe-69b797215/)
 
 ## Skills and Experience
-🔴 <strong>Programming Languages</strong>
+🔴 <strong>Programming Languages </strong>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
